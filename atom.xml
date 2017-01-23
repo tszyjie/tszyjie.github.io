@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mxsail --Bored Code Peasant</title>
+  <subtitle>Mxsail-Bored Code Peasant</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.mxsail.com/"/>
+  <updated>2017-01-23T14:01:25.728Z</updated>
+  <id>http://blog.mxsail.com/</id>
+  
+  <author>
+    <name>Yonjie Tsai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.mxsail.com/2017/01/22/hello-world/"/>
+    <id>http://blog.mxsail.com/2017/01/22/hello-world/</id>
+    <published>2017-01-22T14:15:37.222Z</published>
+    <updated>2017-01-23T14:01:25.728Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;你好,欢迎来到我的个人博客。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://blog.mxsail.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="2017年1月23日" scheme="http://blog.mxsail.com/categories/%E9%9A%8F%E7%AC%94/2017%E5%B9%B41%E6%9C%8823%E6%97%A5/"/>
+    
+    
+      <category term="new" scheme="http://blog.mxsail.com/tags/new/"/>
+    
+  </entry>
+  
+</feed>
