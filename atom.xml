@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mxsail --Bored Code Peasant</title>
-  <subtitle>Mxsail-Bored Code Peasant</subtitle>
+  <title>Mxsail --A Bored Code Peasant&#39;s Blog</title>
+  <subtitle>Mxsail-A Bored Code Peasant&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.mxsail.com/"/>
@@ -9,7 +9,7 @@
   <id>http://blog.mxsail.com/</id>
   
   <author>
-    <name>Yonjie Tsai</name>
+    <name>Mr.Tsai</name>
     
   </author>
   
