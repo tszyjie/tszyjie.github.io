@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.mxsail.com/"/>
-  <updated>2017-01-23T14:01:25.728Z</updated>
+  <updated>2017-01-24T13:38:44.000Z</updated>
   <id>http://blog.mxsail.com/</id>
   
   <author>
@@ -16,11 +16,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2017年我的Win10装机必备软件</title>
+    <link href="http://blog.mxsail.com/2017/01/24/2017%E5%B9%B4%E6%88%91%E7%9A%84Win10%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6/"/>
+    <id>http://blog.mxsail.com/2017/01/24/2017年我的Win10装机必备软件/</id>
+    <published>2017-01-24T06:42:48.000Z</published>
+    <updated>2017-01-24T13:38:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;系统优化、防御&quot;&gt;&lt;a href=&quot;#系统优化、防御&quot; class=&quot;headerlink&quot; title=&quot;系统优化、防御&quot;&gt;&lt;/a&gt;系统优化、防御&lt;/h2&gt;&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;软媒魔方&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://blog.mxsail.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="2017年1月24日" scheme="http://blog.mxsail.com/categories/%E9%9A%8F%E7%AC%94/2017%E5%B9%B41%E6%9C%8824%E6%97%A5/"/>
+    
+    
+      <category term="软件" scheme="http://blog.mxsail.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="计算机" scheme="http://blog.mxsail.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="UWP" scheme="http://blog.mxsail.com/tags/UWP/"/>
+    
+      <category term="Windows 10" scheme="http://blog.mxsail.com/tags/Windows-10/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://blog.mxsail.com/2017/01/22/hello-world/"/>
     <id>http://blog.mxsail.com/2017/01/22/hello-world/</id>
     <published>2017-01-22T14:15:37.222Z</published>
-    <updated>2017-01-23T14:01:25.728Z</updated>
+    <updated>2017-01-24T05:25:18.844Z</updated>
     
     <summary type="html">
     
